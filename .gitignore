@@ -1,0 +1,6 @@
+cache
+dist
+tinylimit.egg-info/
+.vscode
+*.pyc
+__pycache_
